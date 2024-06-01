@@ -1,0 +1,20 @@
+PricePalBE/HELP.md
+target/
+!.mvn/warpper/maven-wrapper.jar
+!**/src/main/**/target
+!**/src/test/**/target
+
+### IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+# IntelliJ
+out/
+
+# mmpeltonen/sbt-idea plugin
+.idea_modules
+
+node_modules/
+PricePalFE/package-lock.json
+PricePalFE/.vscode
