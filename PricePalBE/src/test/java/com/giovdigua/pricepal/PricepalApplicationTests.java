@@ -1,4 +1,4 @@
-package com.giovdigua.pricepal.pricepal;
+package com.giovdigua.pricepal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

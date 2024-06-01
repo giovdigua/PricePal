@@ -1,4 +1,4 @@
-package com.giovdigua.pricepal.pricepal;
+package com.giovdigua.pricepal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
